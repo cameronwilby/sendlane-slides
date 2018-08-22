@@ -1,4 +1,4 @@
-# tba
+# Vue binding data
 
 In Vue, the data binding seems like magic because of how the directives on our element tags take care of the vanilla leg work by including event listeners, (as you saw when a predetermined event happens in response to our interaction), and updates the element based on what we've specified.
 
