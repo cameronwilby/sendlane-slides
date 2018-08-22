@@ -67,7 +67,7 @@ Old-school way
 
 ## Data Binding Workshop #2
 
-<iframe src="https://codepen.io/anon/pen/bxdppX" height="720" width="100%"></iframe>
+<iframe src="https://codepen.io/raucyk/pen/bxdppX" height="720" width="100%"></iframe>
 
 Note:
 The new way
